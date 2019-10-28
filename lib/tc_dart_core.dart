@@ -3,6 +3,5 @@
 /// More dartdocs go here.
 library tc_dart_core;
 
-export 'src/tc_dart_core_base.dart';
+export 'src/color_string.dart';
 
-// TODO: Export any libraries intended for clients of this package.
